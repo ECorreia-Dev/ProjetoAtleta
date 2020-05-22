@@ -39,7 +39,7 @@ namespace ProjetoAtleta
 
             }
 
-            /* Tratamento de exceção */
+            /* Tratamento de exceções */
 
             catch (FormatException ex)
             {
